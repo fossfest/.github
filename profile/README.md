@@ -2,11 +2,13 @@
 
 ## What is FOSS FEST 23?
 
-FOSS Fest 23 is a festival with the FOSS theme, trying to promote the FOSS culture amongst people.
+FOSS Fest 23 is a festival with the FOSS theme, trying to promote the FOSS culture amongst people. 
+An FOSS Festival with interesting talk sessions, Workshops, Coding challenges and much more!
+By FOSS lovers, For FOSS lovers!
 
 ## Where and when?
 **Venue**: College of Engineering Karunagappally Kollam <br>
-**Date**: June 10 2023, Saturday 
+**Date**: May 27 2023, Saturday 
 
 ## Ticket cost
 1. For students - 139 INR (99 INR for Early Bird)
