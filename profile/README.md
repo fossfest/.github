@@ -11,8 +11,8 @@ By FOSS lovers, For FOSS lovers!
 **Date**: May 27 2023, Saturday 
 
 ## Ticket cost
-1. For students - 139 INR (99 INR for Early Bird)
-2. For everyone else- 239 INR (199 INR Early Bird)
+1. For students - 139 INR 
+2. For everyone else- 239 INR
 
 ## Expected Participants
 We expect around 100 to 150 people.
