@@ -21,26 +21,25 @@ We expect around 100 to 150 people.
 Anyone who is enthusiastic about FOSS technologies. 
 
 ## Schedule 
-8:30-9:20 AM - Registration
+8:30-9:50 AM - Registration and networking
 ### Main track(Seminar Hall)
-- [ ] 9:30-9:45 AM - Inauguration 
-- [ ] 10:00-10:30AM - Talk session 1
-- [ ] 10:40-11:10 AM - Talk session 2
-- [ ] 11:15-11:20 AM - open networking (connecting with nearby sitting people; moderated session )
-- [ ] 11:25-11:55 AM - Talk session 3
-- [ ] 12:05-12:35 PM - Talk session 4
-#### **LUNCH BREAK** `Till 1:30 PM`
+- [ ] 10:00 AM - 10:30 AM - Inauguration along with `Why FOSS? talk`
+- [ ] 10:30 AM - 10:55 AM - Talk session 1
+- [ ] 11:00 AM - 11:25 AM - Talk session 2
+- [ ] 11:30 AM - 11:55 AM - Talk session 3
+- [ ] 12:00 PM - 12:25 PM - Talk session 4
 
-- [ ]  2:00 -3:00 PM - FOSS and why session
-- [ ] 3-5 PM - Open Networking session
+#### **LUNCH BREAK** `12:35 PM till 1:50 PM`
+
+- [ ] 02:00 PM - 03:15 PM - Open Networking session/Panel discussion
+- [ ] 03:25 PM - 04:30 PM - Project Showcase session(under planning)
 
 `Event Wind up and Music performance afterwards` 
 
 ## Workshop Track( Classroom next )
-- [ ] 10:15-11:15 AM - Workshop 1
-- [ ] 11:30-12:30 PM - Workshop 2
-- [ ] 2:00-3:00 PM - Workshop 3
-- [ ] 3:00-5:00 PM - Project Showcase session
+- [ ] 10:30 AM - 12:30 PM - Workshop 1
+- [ ] 02:00 PM - 04:00 PM - Workshop 2
+
  
 
 
@@ -50,6 +49,5 @@ The creators of the project will be there to present the project and potentially
 
 ### Currently planned workshops:
 * Frappe
-* AI domain
-* Open AI 
+* AI/ML
 
