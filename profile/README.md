@@ -51,3 +51,4 @@ The creators of the project will be there to present the project and potentially
 * Frappe
 * AI/ML
 
+This is a provisional schedule, which may be subject to last-minute alterations.
