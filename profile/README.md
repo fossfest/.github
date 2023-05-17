@@ -26,19 +26,16 @@ Anyone who is enthusiastic about FOSS technologies.
 - [ ] 10:00 AM - 10:30 AM - Inauguration along with `Why FOSS? talk`
 - [ ] 10:30 AM - 10:55 AM - Talk session 1
 - [ ] 11:00 AM - 11:25 AM - Talk session 2
-- [ ] 11:30 AM - 11:55 AM - Talk session 3
+- [ ] 11:30 AM - 11:55 AM - Open Source Quiz
 - [ ] 12:00 PM - 12:25 PM - Talk session 4
 
 #### **LUNCH BREAK** `12:35 PM till 1:50 PM`
 
-- [ ] 02:00 PM - 03:15 PM - Open Networking session/Panel discussion
-- [ ] 03:25 PM - 04:30 PM - Project Showcase session(under planning)
+- [ ] 02:00 PM - 04:00 PM - Workshop on AI/ML
+- [ ] 04:00 PM - 05:00 PM - Project Showcase (Free slot)
 
 `Event Wind up and Music performance afterwards` 
 
-## Workshop Track( Classroom next )
-- [ ] 10:30 AM - 12:30 PM - Workshop 1
-- [ ] 02:00 PM - 04:00 PM - Workshop 2
 
  
 
@@ -48,7 +45,6 @@ Projects done by people, are collected prior to the event and selected projects 
 The creators of the project will be there to present the project and potentially attract anyone who is interested in supporting thier project.
 
 ### Currently planned workshops:
-* Frappe
 * AI/ML
 
 This is a provisional schedule, which may be subject to last-minute alterations.
