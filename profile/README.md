@@ -32,7 +32,7 @@ Anyone who is enthusiastic about FOSS technologies.
 #### **LUNCH AND NETWORKING** `12:35 PM till 1:50 PM`
 
 - [ ] 02:00 PM - 04:00 PM - Workshop on AI/ML
-- [ ] 04:00 PM - 05:00 PM - Project Showcase (Free slot)
+- [ ] 04:00 PM - 05:00 PM - CTF Round
 
 `Event Wind up and Music performance afterwards` 
 
