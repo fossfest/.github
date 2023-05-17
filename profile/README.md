@@ -40,9 +40,6 @@ Anyone who is enthusiastic about FOSS technologies.
  
 
 
-#### Project Showcase ?
-Projects done by people, are collected prior to the event and selected projects are showcased during the FOSS Fest 23.
-The creators of the project will be there to present the project and potentially attract anyone who is interested in supporting thier project.
 
 ### Currently planned workshops:
 * AI/ML
