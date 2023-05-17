@@ -27,7 +27,7 @@ Anyone who is enthusiastic about FOSS technologies.
 - [ ] 10:30 AM - 10:55 AM - Talk session 1
 - [ ] 11:00 AM - 11:25 AM - Talk session 2
 - [ ] 11:30 AM - 11:55 AM - Open Source Quiz
-- [ ] 12:00 PM - 12:25 PM - Talk session 4
+- [ ] 12:00 PM - 12:25 PM - Talk session 3
 
 #### **LUNCH AND NETWORKING** `12:35 PM till 1:50 PM`
 
