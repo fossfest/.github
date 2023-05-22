@@ -15,7 +15,7 @@ By FOSS lovers, For FOSS lovers!
 2. For everyone else- 249 INR
 
 ## Expected Participants
-We expect around 100 to 150 people.
+We expect around 100 people
 
 ## Who all can attend?
 Anyone who is enthusiastic about FOSS technologies. 
@@ -31,7 +31,7 @@ Anyone who is enthusiastic about FOSS technologies.
 
 #### **LUNCH AND NETWORKING** `12:55 PM till 1:50 PM`
 
-- [ ] 02:00 PM - 04:00 PM - Workshop on AI/ML By S Mohammed Shafeeq Hameed
+- [ ] 02:00 PM - 04:00 PM - `Workshop on AI/ML` By S Mohammed Shafeeq Hameed
 - [ ] 04:00 PM - 04:15 PM -  Tea and snacks time
 - [ ] 04:20 PM - 04: 40 PM - Event Wind up
 
